@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469761837875",
+    "project_id": "flutter-traffic-project",
+    "storage_bucket": "flutter-traffic-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469761837875:android:e32812f86de78e58af0c46",
+        "android_client_info": {
+          "package_name": "com.example.traffic_data_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3DhUgVdY-uQfIlZbFZhXFaUY5bJ0rCvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
